@@ -5,10 +5,12 @@ Selenium automates browsers. That's it! What you do with that power is entirely 
 Selenium has the support of some of the largest browser vendors who have taken (or are taking) steps to make Selenium a native part of their browser. It is also the core technology in countless other browser automation tools, APIs and frameworks.
 
 [You can get more information from here](http://selenium-python.readthedocs.io/)
+
 ## Prerequisite
 * This sample base on Python3
 * You need install the Chrome browser version 54.0.2840.98  or later
 * Mac or Linux is better
+
 ## Quick start
 
 * Download the code
