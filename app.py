@@ -11,7 +11,7 @@ class DevNetTestCases(unittest.TestCase):
 
         dir_path = os.path.dirname(os.path.realpath(__file__))
         if platform.system() == "Windows":
-            chrome_driver_path = dir_path + "\\resource\\chromedriver"
+            chrome_driver_path = dir_path + "\\resource\\chromedriver.exe"
         else:
             chrome_driver_path = dir_path + "/resource/chromedriver"
         self.driver = webdriver.Chrome(chrome_driver_path)
